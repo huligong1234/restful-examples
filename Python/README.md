@@ -1,6 +1,6 @@
 # Python安装
-* python下载地址 https://www.python.org/downloads/
-* pip下载地址 https://pypi.python.org/pypi/pip#downloads
+* python download https://www.python.org/downloads/
+* pip download ($ python setup.py install) https://pypi.python.org/pypi/pip#downloads
 * [Unofficial Windows Binaries for Python Extension Packages](http://www.lfd.uci.edu/~gohlke/pythonlibs/) http://www.lfd.uci.edu/~gohlke/pythonlibs/
 
 # Python参考资料
